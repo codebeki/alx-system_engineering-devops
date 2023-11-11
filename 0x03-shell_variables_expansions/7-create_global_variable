@@ -1,2 +1,2 @@
 #!/bin/bash
-expoet BEST="school"
+expoet BEST= "school"
